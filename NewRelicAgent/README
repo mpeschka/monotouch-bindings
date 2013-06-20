@@ -1,0 +1,21 @@
+TestFlight
+==========
+
+This is a MonoTouch binding for the NewRelic agent for iOS which can be found at
+
+     http://newrelic.com/mobile-monitoring
+
+The current version of this binding is for NewRelicAgent 1.3
+
+
+Building
+========
+
+Run `make` in the binding directory to build NewRelicAgent.dll
+
+
+Using NewRelicAgent.dll with your own iOS App
+==========================================
+
+Simply add NewRelicAgent.dll to your project's References in MonoDevelop and you
+are good to go!
